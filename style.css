@@ -67,3 +67,60 @@
       padding: 10px 20px;
       color: rgb(188, 25, 25);
     }
+     .style-9 {
+      text-align: center;
+    }
+
+    .style-10 {
+      border: 0px none rgb(0, 0, 0);
+      resize: none;
+      outline: rgb(0, 0, 0) none 0px;
+    }
+
+    .style-11 {
+      text-decoration: none solid rgb(255, 255, 255);
+      color: rgb(255, 255, 255);
+      background-color: rgb(241, 64, 0);
+      padding: 20px 50px;
+      border-radius: 10px;
+    }
+
+    .style-12 {
+      text-align: center;
+    }
+
+    .style-13 {
+      font-size: 75px;
+      color: rgba(181, 18, 18, 0.774);
+      text-shadow: 30px;
+    }
+
+    #id-0{
+      font-size: x-large;
+    }
+
+    .style-14 {
+      display: flex;
+    }
+
+    .style-15 {
+      width: 40%;
+      margin-left: 75.95px;
+      margin-right: 75.95px;
+      padding: 30.375px;
+      border-radius: 5%;
+      box-shadow: rgb(158, 5, 5) 15px 15px 30px 00px;
+      background-color: rgba(28, 74, 158, 0.71);
+      color: rgb(211, 229, 229);
+    }
+
+    .style-16 {
+      width: 40%;
+      margin-left: 75.95px;
+      margin-right: 75.95px;
+      padding: 30.375px;
+      border-radius: 5%;
+      box-shadow: rgb(158, 5, 5) 15px 15px 30px 00px;
+      background-color: rgba(28, 74, 158, 0.71);
+      color: rgb(211, 229, 229);
+    }
