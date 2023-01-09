@@ -1,0 +1,69 @@
+ .style-0 {
+      cursor: auto;
+      font-family: Poppins, sans-serif;
+      margin: 0px;
+      background-color: rgb(200, 206, 212);
+    }
+
+    .style-1 {
+      background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJX6lSSljWQmC8fjEnRMx7d9aBfafkmp-vfOPTBvo0uO6dhIu2tzDxhPYIpXB_MPfgKI_gqLQGRDdQxTWRo1Kf6El9BijjDNzXq7eaAp9p9MiJMt6l0v6O2TC4hoi4Htxe5IAFFWHrxrU8ATFzj4cfa2eaVs2SyiPeZmYi-h5LLfoujFgRIk2d-xx-sw/s16000/donation6.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 650px;
+      background-position: 50% 50%;
+    }
+
+    .style-2 {
+      text-align: center;
+      color: rgb(255, 255, 255);
+      position: absolute;
+      top: 226.075px;
+      left: 455.75px;
+      transform: matrix(1, 0, 0, 1, -212.64, -82.4);
+    }
+
+    .style-3 {
+      font-size: 75px;
+      color: rgb(223, 215, 215);
+    }
+
+    #id-3{
+      font-size: x-large;
+      color: rgb(255, 255, 255);
+    }
+
+    .style-4 {
+      text-decoration: solid rgb(255, 255, 255);
+      color: rgb(255, 255, 255);
+      background-color: rgb(255, 14, 14);
+      padding: 20px 50px;
+      border-radius: 10px;
+    }
+
+    .style-5 {
+      text-align: center;
+    }
+
+    .style-6 {
+      font-size: 75px;
+      color: rgba(181, 18, 18, 0.774);
+      text-shadow: 30px;
+    }
+
+     #id-2{
+      font-size: x-large;
+    }
+
+    .style-7 {
+      display: flex;
+      justify-content: space-between;
+      margin-left: 151.913px;
+      margin-right: 151.913px;
+    }
+
+    .style-8 {
+      color: rgb(192, 17, 17);
+      border-style: solid;
+      padding: 10px 20px;
+      color: rgb(188, 25, 25);
+    }
