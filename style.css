@@ -178,18 +178,3 @@
       background-color: rgb(7, 7, 7);
       color: rgb(231, 116, 116);
     }
-
-    .style-24 {
-      width: 0px;
-      height: 0px;
-      height: 0px;
-      inset: auto auto 10px 10px;
-      visibility: hidden;
-      border: 0px none rgb(0, 0, 0);
-      box-shadow: none;
-      position: fixed;
-      z-index: 9000000;
-      overflow: clip;
-      animation-duration: 1s;
-      animation-fill-mode: both;
-    }
